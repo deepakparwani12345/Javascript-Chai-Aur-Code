@@ -16,6 +16,6 @@ const id =1234
 
 // console.log(id);
 
-console.table([name,rollno,id]);
+//console.table([name,rollno,id]);
 
 
